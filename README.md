@@ -1,2 +1,2 @@
-# 2_BOOTCAMP_XPe_ENG_DE_DADOS
+# Course_Data_Engineering_Cloud_XP
 Projetos desenvolvidos em Engenharia de Dados
